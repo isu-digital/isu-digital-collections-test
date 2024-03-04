@@ -21,16 +21,16 @@ digital-assets: https://iastatedigital.org/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Jack Trice Digital Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: A Work in Progress Digital Collection Using Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "The Jack Trice Digital Collection contains a selection of materials from the ISU Library Special Collections and University Archives collections, including the [Jack Trice Papers](https://cardinal.lib.iastate.edu/repositories/2/resources/1282) and University Photographs."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: Iowa State University alumni;college football; black athletes
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Iowa State University Library
 
 ##########
 # COLLECTION SETTINGS
