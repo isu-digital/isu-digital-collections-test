@@ -8,11 +8,14 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://digital-prod.lib.iastate.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /collections/demo
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/owikle/isu-digital-collections-test
+
+# url to shared assets folder
+digital-assets: https://digital-prod.lib.iastate.edu/assets
 
 ##########
 # SITE SETTINGS
@@ -50,18 +53,10 @@ metadata: demo-compoundobjects-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
-##########
-# GOOGLE SERVICES [optional!]
-#
-# leave these blank or comment out to NOT include google code
-# if present, used to add analytics during "production" build only
-# google-analytics-id: "G-XXXXXXXXX"
-# google-cse-id: "002151703305773322890:1pu3smhw1t8"
+organization-name: "Iowa State University Library Digital Collections"
+organization-link: https://digitalcollections.lib.iastate.edu/
+organization-logo-banner: https://digitalcollections.lib.iastate.edu/sites/public.uni.dgicloud.com.isu/files/ISU_secondary_red.png
+organization-logo-nav: https://digitalcollections.lib.iastate.edu/sites/public.uni.dgicloud.com.isu/files/DClogo3.gif
 
 ##########
 # ROBOTS EXCLUDE
@@ -77,7 +72,7 @@ organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, SECURITY.md]
+exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
