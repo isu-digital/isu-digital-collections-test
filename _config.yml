@@ -8,14 +8,14 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://digital-prod.lib.iastate.edu
+url: https://iastatedigital.org
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /collections/demo
 # location of code, the full url to your github repository
-source-code: https://github.com/owikle/isu-digital-collections-test
+source-code: https://github.com/isu-digital/isu-digital-collections-test/tree/main
 
 # url to shared assets folder
-digital-assets: https://digital-prod.lib.iastate.edu/assets
+digital-assets: https://iastatedigital.org/assets
 
 ##########
 # SITE SETTINGS
