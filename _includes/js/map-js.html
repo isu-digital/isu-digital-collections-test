@@ -56,13 +56,24 @@
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     });
     
-    var imageUrl = 'https://iastatedigital.org/objects/iowastateparks/small/26-05-06_extensionla_tube-073-003_sm.jpg';
+    var imageUrl1 = 'https://iastatedigital.org/objects/iowastateparks/small/26-05-06_extensionla_tube-073-003_sm.jpg';
     var errorOverlayUrl = 'https://cdn-icons-png.flaticon.com/512/110/110686.png';
     var altText = 'Image of Newark, N.J. in 1922. Source: The University of Texas at Austin, UT Libraries Map Collection.';
     var latLngBounds = L.latLngBounds([[44.034435, -89.528238], [40.155359, -97.575150]]);
 
-    var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    var imageOverlay1 = L.imageOverlay(imageUrl1, latLngBounds, {
         opacity: 0.5,
+        errorOverlayUrl: errorOverlayUrl,
+        alt: altText,
+        interactive: true
+    });
+    var imageUrl2 = 'https://iastatedigital.org/objects/iowastateparks/small/26-05-06_extensionla_c405-d14-f001-003_sm.jpg';
+    var errorOverlayUrl = 'https://cdn-icons-png.flaticon.com/512/110/110686.png';
+    var altText = 'Image of Newark, N.J. in 1922. Source: The University of Texas at Austin, UT Libraries Map Collection.';
+    var latLngBounds = L.latLngBounds([[42.029927, -93.852140], [41.951076, -93.950217]]);
+
+    var imageOverlay2 = L.imageOverlay(imageUrl2, latLngBounds, {
+        opacity: 0.7,
         errorOverlayUrl: errorOverlayUrl,
         alt: altText,
         interactive: true
@@ -75,7 +86,8 @@
         "Open Street Map": OpenStreetMap_Mapnik
     };
     var overlays = {
-        "Historic Overlay": imageOverlay
+        "Historic Iowa Map - 1934": imageOverlay1,
+        "Historic Ledges State Park": imageOverlay2
     };
     L.control.layers(baseMaps, overlays).addTo(map);
     /* load base map */
