@@ -41,8 +41,6 @@
 {% assign topTerms = topTerms | split: ";" %}
 {%- endif -%}
 
-{% include index/featured-terms.html field="aat_genre" title="Material Types" btn-color="outline-info" max=8 %}
-
 <div class="card mb-3">
     {% if include.header %}<h2 class="card-header h5">{{ include.header }}</h2>{% endif %}
     <div class="card-body">
