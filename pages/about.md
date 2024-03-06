@@ -8,26 +8,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="iowastateparks_118" %} 
+## About the Iowa State Parks Collection
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+In the early 20th century, Iowa State University botanist Louis Hermann Pammel (1862-1931), ISU botanist Ada Hayden (1884-1950), and the university's Landscape Architecture Extension Program played key roles in advocating for and developing Iowa's state parks. This collection includes correspondence, photographs, maps, and other materials pertaining to the people and programs active in the state park movement.
 
-## About CollectionBuilder CSV
+Learn More about the history of state parks in Iowa by exploring our digital exhibit.
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+{% include feature/button.html text="A More Beautiful Iowa: Iowa's State Parks System" link="http://exhibits.lib.iastate.edu/iowa-state-parks?_gl=1*1csch0r*_ga*MjAzOTY2MDc4NS4xNjQ2MjUyMjcx*_ga_VZYMPY53XG*MTcwOTY2ODEyMC4yLjEuMTcwOTY2ODI0Mi4wLjAuMA.." color="primary" centered="true" size="lg"%}
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="iowastateparks_126" width="75" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
