@@ -55,6 +55,18 @@
         maxZoom: 19,
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     });
+    
+    var imageUrl = 'https://iastatedigital.org/objects/iowastateparks/small/26-05-06_extensionla_tube-073-003_sm.jpg';
+    var errorOverlayUrl = 'https://cdn-icons-png.flaticon.com/512/110/110686.png';
+    var altText = 'Image of Newark, N.J. in 1922. Source: The University of Texas at Austin, UT Libraries Map Collection.';
+    var latLngBounds = L.latLngBounds([[44.034435, -89.528238], [40.155359, -97.575150]]);
+
+    var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+        opacity: 0.5,
+        errorOverlayUrl: errorOverlayUrl,
+        alt: altText,
+        interactive: true
+    });
     /* add base map switcher */
     var baseMaps = {
         "Esri World StreetMap": Esri_WorldStreetMap,
@@ -62,7 +74,10 @@
         "Esri Imagery": Esri_WorldImagery,
         "Open Street Map": OpenStreetMap_Mapnik
     };
-    L.control.layers(baseMaps).addTo(map);
+    var overlays = {
+        "Historic Overlay": imageOverlay
+    };
+    L.control.layers(baseMaps, overlays).addTo(map);
     /* load base map */
     {{ site.data.theme.map-base | default: 'Esri_WorldStreetMap' }}.addTo(map);
 
