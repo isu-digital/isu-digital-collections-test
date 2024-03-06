@@ -16,8 +16,10 @@ layout: page
     {% include index/time.html %}
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
+    
+    {% include index/featured-terms.html field="location" title="Parks" btn-color="forest-green" %}
 
-    {% include index/featured-terms.html field="geographic_subject_fast" title="Locations" btn-color="outline-secondary" %}
+    {% include index/featured-terms.html featured="iowa--boone county;iowa--story county;iowa--webster county;iowa--delaware county;iowa--madison county" title="Counties" btn-color="outline-secondary" %}
     
     {% include index/objects.html %}
 
