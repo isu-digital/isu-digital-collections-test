@@ -14,6 +14,9 @@ credits: true
 
 ## About CollectionBuilder CSV
 
+- [African Americans]({{ '/browse.html#' | append: 'african americans' | relative_url }})
+- [Alumni and Alumnae]({{ '/browse.html#' | append: 'alumni and alumnae' | relative_url }})
+
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
@@ -30,4 +33,6 @@ See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed informa
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+{% comment %}
 {% include cb/about_the_about.md %} 
+{% endcomment %}
