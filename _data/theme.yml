@@ -13,7 +13,7 @@ featured-image: lippisch_076
 home-title-y-padding: 15em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is top
-content-alert: false # true / false
+content-alert: true # true / false
 
 ##########
 # ITEM PAGE
@@ -88,7 +88,7 @@ search-child-objects: true # true / false - if true, child objects will appear o
 navbar-color: navbar-dark
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-info
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em

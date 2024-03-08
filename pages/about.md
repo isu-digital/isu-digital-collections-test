@@ -8,26 +8,26 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="lippisch_030" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+# About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This digital collection showcases the works of Alexander Lippisch – an aeronautical engineer and designer. Images in the collection include photographs of aircraft - including many of delta wings - as well as designs and conceptual drawings of aircraft and other vehicles.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="lippisch_103" width="50" %} 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+## About Alexander Lippisch:
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Alexander Lippisch (1894-1976) was a German innovator in aeronautical engineering and a creative mind fascinated with flight. Born in Munich, his designs and artistic flair set him apart, contributing significantly to aviation during the 20th century. Notably, Lippisch spent a significant portion of his career working for Collins Radio Company (now Rockwell Collins) in Cedar Rapids, Iowa, where his ideas continued to shape the world of aviation.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+{% include feature/image.html objectid="lippisch_085" width="50" %} 
+## Content Warning - World War II Artifacts:
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+Some of Lippisch's work is linked to World War II, reflecting his contributions to military projects in Nazi Germany. Therefore, some images in this collection include symbols of the Nazi German government which may be upsetting to some viewers. Viewers are advised to approach these pieces with historical awareness, recognizing the sensitivity of the subject.
+
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
