@@ -20,7 +20,7 @@
 <script src="{{ '/assets/lib/leaflet/leaflet.fusesearch.js' | relative_url }}"></script>{% endif %}
 {% if site.data.theme.map-cluster == true %}<script src="{{ '/assets/lib/leaflet/leaflet.markercluster.js' | relative_url }}"></script>{% endif %}
 {% if site.data.theme.map-search == true and site.data.theme.map-cluster == true %}<script src="{{ '/assets/lib/leaflet/leaflet.markercluster.freezable.js' | relative_url }}"></script>{% endif %}
-
+<script src="{{ '/assets/public_lands.js' | relative_url }}"></script>
 <script>
 (function(){
     /* add collection map data */
@@ -168,11 +168,11 @@
         ]
     }
     
-    /*var parkStyle = {
+    var parkStyle = {
         "color": "#ff7800",
         "weight":3,
         "opacity": 0.7
-    };*/
+    };
     
     
     /* add opacity controls */
@@ -194,11 +194,16 @@
         "Open Street Map": OpenStreetMap_Mapnik
     };
     /*add overlay layers */
-    var Ledges2 = L.geoJson(parkLedges);
+    var Ledges2 = L.geoJson(parkLedges, {
+        style: parkStyle
+        });
+    var currentParks = L.geoJson(stateparks, {
+        style: parkStyle
+        });
     var overlays = {
         "Historic Iowa Map - 1934": imageOverlay1,
         "Historic Ledges State Park": imageOverlay2,
-        "Current Ledges boundaries": Ledges2
+        "Current Public Lands": currentParks
     };
     L.control.layers(baseMaps,overlays).addTo(map);
     
