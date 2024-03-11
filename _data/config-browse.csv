@@ -1,6 +1,9 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+geographic_subject_fast,Location,true
+geographic_subject_local,,,true
 identifier,,,true,Identifier
+personal_creator,Creator,true,
+corporate_creator,Organization,,true
+topical_subject_fast,Subject,true,
+personal_name_subject,,,true
