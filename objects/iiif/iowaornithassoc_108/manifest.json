@@ -1,0 +1,44 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@id": "/iiif/iowaornithassoc_108/manifest.json",
+  "@type": "sc:Manifest",
+  "label": {
+    "en": [
+      "Record book of the Iowa Ornithologists' Association"
+    ]
+  },
+  "attribution": "Iowa State University. Special Collections and University Archives",
+  "logo": "/assets/img/collectionbuilder-logo.png",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "id": "/iiif/iowaornithassoc_108/manifest.json",
+          "label": "Record book of the Iowa Ornithologists' Association",
+          "thumbnail": [
+            {
+              "id": "/objects/thumbs/ms0581b001f001i0001_th.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "width": 300,
+              "height": 300
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "/iiif/iowaornithassoc_108/manifest.json",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "/objects/pdf/ms0581.pdf"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
