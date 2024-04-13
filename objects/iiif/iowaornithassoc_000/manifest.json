@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "@id": "/iiif/iowaornithassoc_000/manifest.json",
+  "@id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
   "@type": "sc:Manifest",
   "label": {
     "en": [
@@ -8,18 +8,18 @@
     ]
   },
   "attribution": "Iowa State University. Special Collections and University Archives",
-  "logo": "/assets/img/collectionbuilder-logo.png",
+  "logo": "/collections/ioa/assets/img/collectionbuilder-logo.png",
   "sequences": [
     {
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0001_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0001_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -30,21 +30,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0001.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0001.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0002_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0002_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -55,21 +55,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0002.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0002.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0003_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0003_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -80,21 +80,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0003.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0003.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0004_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0004_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -105,21 +105,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0004.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0004.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0005_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0005_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -130,21 +130,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0005.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0005.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0006_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0006_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -155,21 +155,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0006.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0006.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0007_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0007_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -180,21 +180,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0007.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0007.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0008_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0008_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -205,21 +205,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0008.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0008.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0009_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0009_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -230,21 +230,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0009.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0009.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0010_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0010_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -255,21 +255,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0010.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0010.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0011_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0011_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -280,21 +280,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0011.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0011.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0012_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0012_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -305,21 +305,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0012.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0012.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0013_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0013_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -330,21 +330,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0013.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0013.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0014_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0014_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -355,21 +355,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0014.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0014.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0015_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0015_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -380,21 +380,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0015.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0015.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0016_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0016_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -405,21 +405,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0016.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0016.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0017_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0017_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -430,21 +430,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0017.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0017.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0018_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0018_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -455,21 +455,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0018.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0018.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0019_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0019_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -480,21 +480,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0019.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0019.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0020_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0020_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -505,21 +505,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0020.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0020.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0021_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0021_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -530,21 +530,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0021.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0021.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0022_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0022_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -555,21 +555,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0022.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0022.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0023_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0023_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -580,21 +580,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0023.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0023.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0024_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0024_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -605,21 +605,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0024.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0024.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0025_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0025_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -630,21 +630,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0025.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0025.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0026_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0026_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -655,21 +655,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0026.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0026.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0027_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0027_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -680,21 +680,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0027.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0027.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0028_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0028_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -705,21 +705,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0028.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0028.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0029_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0029_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -730,21 +730,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0029.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0029.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0030_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0030_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -755,21 +755,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0030.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0030.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0031_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0031_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -780,21 +780,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0031.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0031.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0032_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0032_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -805,21 +805,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0032.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0032.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0033_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0033_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -830,21 +830,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0033.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0033.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0034_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0034_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -855,21 +855,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0034.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0034.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0035_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0035_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -880,21 +880,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0035.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0035.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0036_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0036_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -905,21 +905,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0036.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0036.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0037_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0037_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -930,21 +930,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0037.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0037.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0038_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0038_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -955,21 +955,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0038.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0038.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0039_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0039_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -980,21 +980,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0039.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0039.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0040_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0040_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1005,21 +1005,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0040.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0040.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0041_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0041_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1030,21 +1030,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0041.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0041.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0042_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0042_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1055,21 +1055,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0042.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0042.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0043_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0043_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1080,21 +1080,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0043.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0043.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0044_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0044_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1105,21 +1105,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0044.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0044.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0045_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0045_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1130,21 +1130,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0045.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0045.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0046_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0046_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1155,21 +1155,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0046.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0046.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0047_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0047_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1180,21 +1180,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0047.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0047.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0048_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0048_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1205,21 +1205,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0048.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0048.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0049_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0049_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1230,21 +1230,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0049.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0049.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0050_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0050_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1255,21 +1255,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0050.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0050.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0051_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0051_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1280,21 +1280,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0051.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0051.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0052_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0052_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1305,21 +1305,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0052.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0052.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0053_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0053_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1330,21 +1330,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0053.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0053.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0054_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0054_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1355,21 +1355,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0054.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0054.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0055_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0055_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1380,21 +1380,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0055.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0055.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0056_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0056_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1405,21 +1405,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0056.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0056.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0057_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0057_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1430,21 +1430,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0057.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0057.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0058_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0058_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1455,21 +1455,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0058.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0058.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0059_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0059_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1480,21 +1480,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0059.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0059.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0060_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0060_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1505,21 +1505,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0060.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0060.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0061_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0061_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1530,21 +1530,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0061.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0061.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0062_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0062_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1555,21 +1555,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0062.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0062.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0063_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0063_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1580,21 +1580,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0063.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0063.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0064_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0064_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1605,21 +1605,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0064.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0064.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0065_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0065_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1630,21 +1630,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0065.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0065.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0066_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0066_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1655,21 +1655,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0066.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0066.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0067_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0067_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1680,21 +1680,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0067.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0067.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0068_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0068_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1705,21 +1705,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0068.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0068.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0069_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0069_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1730,21 +1730,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0069.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0069.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0070_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0070_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1755,21 +1755,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0070.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0070.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0071_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0071_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1780,21 +1780,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0071.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0071.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0072_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0072_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1805,21 +1805,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0072.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0072.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0073_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0073_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1830,21 +1830,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0073.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0073.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0074_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0074_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1855,21 +1855,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0074.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0074.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0075_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0075_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1880,21 +1880,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0075.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0075.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0076_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0076_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1905,21 +1905,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0076.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0076.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0077_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0077_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1930,21 +1930,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0077.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0077.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0078_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0078_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1955,21 +1955,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0078.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0078.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0079_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0079_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -1980,21 +1980,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0079.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0079.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0080_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0080_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2005,21 +2005,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0080.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0080.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0081_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0081_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2030,21 +2030,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0081.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0081.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0082_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0082_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2055,21 +2055,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0082.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0082.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0083_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0083_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2080,21 +2080,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0083.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0083.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0084_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0084_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2105,21 +2105,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0084.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0084.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0085_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0085_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2130,21 +2130,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0085.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0085.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0086_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0086_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2155,21 +2155,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0086.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0086.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0087_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0087_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2180,21 +2180,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0087.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0087.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0088_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0088_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2205,21 +2205,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0088.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0088.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0089_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0089_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2230,21 +2230,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0089.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0089.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0090_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0090_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2255,21 +2255,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0090.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0090.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0091_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0091_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2280,21 +2280,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0091.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0091.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0092_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0092_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2305,21 +2305,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0092.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0092.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0093_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0093_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2330,21 +2330,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0093.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0093.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0094_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0094_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2355,21 +2355,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0094.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0094.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0095_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0095_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2380,21 +2380,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0095.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0095.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0096_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0096_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2405,21 +2405,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0096.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0096.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0097_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0097_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2430,21 +2430,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0097.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0097.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0098_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0098_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2455,21 +2455,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0098.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0098.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0099_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0099_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2480,21 +2480,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0099.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0099.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0100_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0100_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2505,21 +2505,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0100.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0100.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0101_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0101_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2530,21 +2530,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0101.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0101.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0102_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0102_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2555,21 +2555,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0102.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0102.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0103_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0103_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2580,21 +2580,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0103.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0103.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0104_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0104_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2605,21 +2605,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0104.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0104.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0105_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0105_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2630,21 +2630,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0105.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0105.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0106_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0106_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2655,21 +2655,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0106.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0106.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0107_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0107_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2680,21 +2680,21 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0107.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0107.jpg"
               }
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "id": "/iiif/iowaornithassoc_000/manifest.json",
+          "id": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
           "label": null,
           "thumbnail": [
             {
-              "id": "/objects/thumbs/ms0581b001f001i0108_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0108_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -2705,10 +2705,10 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/iiif/iowaornithassoc_000/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_000/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/objects/ms0581b001f001i0108.jpg"
+                "@id": "/collections/ioa/objects/ms0581b001f001i0108.jpg"
               }
             }
           ]
