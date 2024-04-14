@@ -4,7 +4,7 @@
   "@type": "sc:Manifest",
   "label": {
     "en": [
-      "Record book of the Iowa Ornithologists' Association"
+      "Record book of the Iowa Ornithologists' Association - PDF Embed"
     ]
   },
   "attribution": "Iowa State University. Special Collections and University Archives",
@@ -16,7 +16,7 @@
         {
           "@type": "sc:Canvas",
           "id": "/collections/ioa/iiif/iowaornithassoc_109/manifest.json",
-          "label": "Record book of the Iowa Ornithologists' Association",
+          "label": "Record book of the Iowa Ornithologists' Association - PDF Embed",
           "thumbnail": [
             {
               "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0001_th.jpg",

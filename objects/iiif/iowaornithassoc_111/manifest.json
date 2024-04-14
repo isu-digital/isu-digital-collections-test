@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "@id": "/collections/ioa/iiif/iowaornithassoc_110/manifest.json",
+  "@id": "/collections/ioa/iiif/iowaornithassoc_111/manifest.json",
   "@type": "sc:Manifest",
   "label": {
     "en": [
-      "Record book of the Iowa Ornithologists' Association - Regular PDF"
+      "Test iiif search"
     ]
   },
   "attribution": "Iowa State University. Special Collections and University Archives",
@@ -15,11 +15,11 @@
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "id": "/collections/ioa/iiif/iowaornithassoc_110/manifest.json",
-          "label": "Record book of the Iowa Ornithologists' Association - Regular PDF",
+          "id": "/collections/ioa/iiif/iowaornithassoc_111/manifest.json",
+          "label": "Test iiif search",
           "thumbnail": [
             {
-              "id": "/collections/ioa/objects/thumbs/ms0581b001f001i0001_th.jpg",
+              "id": "/collections/ioa/objects/thumbs/uiext32073_th.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "width": 300,
@@ -30,10 +30,10 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "/collections/ioa/iiif/iowaornithassoc_110/manifest.json",
+              "on": "/collections/ioa/iiif/iowaornithassoc_111/manifest.json",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "/collections/ioa/objects/pdf/ms0581.pdf"
+                "@id": "/collections/ioa/objects/uiext32073.jpg"
               }
             }
           ]
