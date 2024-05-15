@@ -198,12 +198,18 @@
         style: parkStyle
         });
     var currentParks = L.geoJson(stateparks, {
-        style: parkStyle
-        });
+        style: parkStyle,
+        filter: function(feature) {
+            return feature.properties["TYPE"] === "State Park";
+        },
+        onEachFeature: function (feature, layer) {
+            layer.bindPopup("Name: " + feature.properties["NAME"] + '<br>' + " County: " + feature.properties["COUNTY"] + '<br>' + " Total Acres: " + feature.properties["ACRES"]);
+        }
+    });
     var overlays = {
         "Historic Iowa Map - 1934": imageOverlay1,
         "Historic Ledges State Park": imageOverlay2,
-        "Current Public Lands": currentParks
+        "Current State Park Boundaries": currentParks
     };
     L.control.layers(baseMaps,overlays).addTo(map);
     
