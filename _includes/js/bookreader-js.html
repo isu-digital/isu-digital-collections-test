@@ -1,0 +1,60 @@
+<!--<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>-->
+<script src="{{ '/assets/lib/bookreader/jquery-3.js' | relative_url }}"></script>
+<script src="{{ '/assets/lib/bookreader/BookReader.js' | relative_url }}"></script>
+
+<script>
+    console.log("Script start");
+    $(document).ready(function() {
+        console.log("Document ready");
+        var br = new BookReader();
+        console.log("BookReader instance created");
+        var options = {
+            data: [
+                [
+                { width: 800, height: 1200,
+                    uri: '{{ "/objects/uiext32073.jpg | relative_url }}' },
+                { width: 800, height: 1200,
+                    uri: '{{ "/objects/uiext32073-1.jpg | relative_url }}' }
+                ]
+            ],
+            bookTitle: 'Simple BookReader Presentation',
+        };
+        /*br.getNumLeafs = function() {
+            return 2; // Total number of pages
+        };
+        br.getPageWidth = function(index) {
+            console.log('getPageWidth called with index:', index);
+            return 800; // Adjust according to your image dimensions
+        };
+        br.getPageHeight = function(index) {
+            console.log('getPageHeight called with index:', index);
+            return 1200; // Adjust according to your image dimensions
+        };
+        br.getPageURI = function(index, reduce, rotate) {
+            // Return the URL to the image file for page 'index'
+            var imageFiles = ['uiext32073.jpg', 'uiext32073-1.jpg'];
+            var imageURL = '/objects/' + imageFiles[index];
+            console.log('images successful');
+            console.log("Image URL:", imageURL); // Check the console for what this outputs
+            return imageURL;
+        };
+        br.search = function(term) {
+            // Basic search functionality across text files
+            var textFiles = ['uiext32073-ocr.txt', 'uiext32073-1-ocr.txt'];
+            for (let i = 0; i < this.getNumLeafs(); i++) {
+                $.get('/objects/ocr/' + textFiles[i], function(data) {
+                    if (data.indexOf(term) !== -1) {
+                        console.log('Term found on page: ' + (i + 1));
+                    }
+                });
+            }
+        };
+    
+        br.getEmbedCode = function() {
+            return "Embed code not implemented in demo.";
+        };*/
+        br.init();
+        console.log("BookReader initialized");
+        window.br = br;
+    });
+</script>
